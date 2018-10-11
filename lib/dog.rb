@@ -13,7 +13,7 @@ end
 class Person 
   def name 
   end 
-  def name = 
+  def name 
   end 
   def job 
   end 
